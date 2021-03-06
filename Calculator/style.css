@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(Group\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.header{
+    color: white;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.header p{
+    padding-top: 30px;
+    padding-right: 850px;
+    font-weight: lighter;
+}
+
+input{
+    background: none;
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: white;
+    outline: none;
+    border-color: white;
+}
+
+p{
+    color: white;
+    font-family: sans-serif;
+}
+
+#pamount, #pperiod{
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+#pinterest, #pcommission{
+    padding-left: 400px;
+}
+
+#pinterest{
+    position: relative;
+    bottom: 120px;
+}
+
+#pcommission{
+    position: relative;
+    bottom: 80px;
+}
+
+#amount{
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+#period{
+    position: relative;
+    left: 100px;
+    top: 33px;
+}
+
+#interest{
+    position: relative;
+    left: 400px;
+    bottom: 95px;
+}
+
+#commission{
+    position: relative;
+    left: 400px;
+    bottom: 55px;
+}
+
+.form button{
+    position: relative;
+    right: 60px;
+    top: 20px;
+    color: green;
+    padding: 13px 45px;
+    border: none;
+}
+
+.box{
+    position: relative;
+    left: 1100px;
+    bottom: 300px;
+    height: 330px;
+    width: 230px;
+    background-color: rgb(255, 255, 255);
+}
+
+.box img{
+    position: relative;
+    left: 15px;
+    top: 30px;
+    height: 200px;
+    width: 200px;
+}
+
+#total{
+    position: relative;
+    left: 1195px;
+    bottom: 490px;
+    color: rgb(66, 66, 66);
+    font-size: 20px;
+}
+
+#kes{
+    position: relative;
+    left: 1170px;
+    bottom: 530px;
+    color: rgb(27, 27, 27);
+    font-size: 30px;
+}
+
+#para{
+    position: relative;
+    left: 1150px;
+    bottom: 405px;
+    color: rgb(48, 48, 48);
+    font-weight: bold;
+    
+}
